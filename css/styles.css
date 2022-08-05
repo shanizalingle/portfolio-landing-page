@@ -19,8 +19,6 @@ img {
 .header{
   background-color: rgb(235, 235, 235);
   padding: 35px;
-  margin: 140px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   border-radius: 15px;
 }
