@@ -1,5 +1,6 @@
-.bold {
-  font-weight: bold;
+.dates {
+  font-size:medium;
+  font-weight: lighter;
 }
 body {
   font-size: 20px;
@@ -12,13 +13,14 @@ h2 {
 }
 img {
   border: solid rgb(235, 235, 235) .5px;
-  border-radius: 5px;
+  float: left;
+  
 }
 .header{
   background-color: rgb(235, 235, 235);
   padding: 35px;
-  margin: 100px;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 140px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-radius: 15px;
 }
