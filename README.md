@@ -15,7 +15,7 @@ _https://shanizalingle.github.io/portfolio-landing-page/_
 
 ## Description
 
-_Shaniza Lingle's portfolio landing page inclues github projects and project links, an "about me" column, and a contact info column with links._
+_Shaniza Lingle's portfolio landing page inclues github projects and project links, an "about me" section, and a contact info section with links._
 
 ## Setup/Installation Requirements
 * _Clone this repository into your desktop_
