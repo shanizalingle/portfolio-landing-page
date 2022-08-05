@@ -14,11 +14,13 @@ h2 {
 img {
   border: solid rgb(235, 235, 235) .5px;
   float: left;
+  border-radius: 1px;
   
 }
 .header{
   background-color: rgb(235, 235, 235);
   padding: 35px;
   margin: 20px;
+  margin-bottom: 25px;
   border-radius: 15px;
 }
